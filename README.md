@@ -1,6 +1,5 @@
 ##### I'm Spyynz-👋
 - 🔭 Current Projects:
-  - **Horion Fork** called **Solar**,
   - **Website** at **spyynz.org**,
   - **Custom Discord Bots** for **Creators** (YouTubers, Streamers, etc.),
   - **Many Other Projects to Come :)**
