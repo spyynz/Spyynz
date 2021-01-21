@@ -5,9 +5,7 @@
   - **Chatroom** for **limited connections** and **school/work environments**. (*Javascript + HTML/CSS*)
   
 - 🌱 Languages I'm learning:
-  - **C++**,
   - **Javascript**,
-  - **C#**,
   - **Python**,
   - **Java**
   
