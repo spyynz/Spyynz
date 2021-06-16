@@ -10,7 +10,7 @@
   - **Java**
   
 - 📫 How to reach me:
-  - **Discord: Spyynz#5350**
+  - **Discord: Spyynz#9918**
   - **Twitter: @spyynz**
   - **Instagram: @spyynz**
   
