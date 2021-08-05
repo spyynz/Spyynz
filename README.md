@@ -2,14 +2,13 @@
 - 🔭 Current Projects:
   - **Website** at **spyynz.com**,
   - **Custom Discord Bots** for **Content Creators** (YouTubers, Streamers, etc. Message me on Discord if interested),
-  - **Chatroom** for **private connections** and **school/work environments**. (*HTML/CSS + Javascript*)
+  - **The Crafty Thief** Minecraft Server
   
 - 🌱 Languages I'm learning:
   - **Javascript**,
   - **Python**,
   - **Java**,
-  - **C#**,
-  - **C++**
+  - **C#**
   
 - 📫 How to reach me:
   - **Discord: Spyynz#9918**
