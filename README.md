@@ -1,8 +1,8 @@
-# I'm Spyynz-👋
+# I'm spyynz-👋
 - 🔭 Current Projects:
-  - **Website** at **spyynz.com**,
+  - **Website** at **spyynz.net**,
   - **Custom Discord Bots** for **Content Creators** (YouTubers, Streamers, etc. Message me on Discord if interested),
-  - **The Crafty Thief** Minecraft Server
+  - **Spine Client** for Minecraft: Java Edition
   
 - 🌱 Languages I'm learning:
   - **Javascript**,
@@ -11,7 +11,7 @@
   - **C#**
   
 - 📫 How to reach me:
-  - **Discord: Spyynz#9918**
+  - **Discord: spyynz#0999**
   - **@spyynz** on most platforms.
   
 ### Thanks for reading! Have a nice day :)
