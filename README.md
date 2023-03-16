@@ -7,9 +7,7 @@
   
 - 🌱 Languages I'm learning:
   - **Javascript**,
-  - **Go**,
-  - **Java**,
-  - **Rust**
+  - **Java**
   
 - 📫 How to reach me:
   - **Discord: spyynz#0999**
