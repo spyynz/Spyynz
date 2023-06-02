@@ -1,15 +1,16 @@
 # Hi, I’m spyynz 👋
 - 🔭 Current Projects:
   - **Cyan** utility mod for Minecraft: Bedrock Edition
-  - **Website** at [**spyynz.net**](https://spyynz.net),
-  - **Custom Discord Bots** for content creators
-  - **Spine** speedrun utility mod for Minecraft: Java Edition
-  
-- 🌱 Languages I'm learning:
+  - **My Website,** which can be found at [**spyynz.com**](https://spyynz.com)
+  - **Spine,** the undetected speedrun utility mod for Minecraft: Java Edition
+
+- 🌱 Languages I work with:
   - **Javascript**,
+  - **Python**,
+  - **C#**,
   - **Java**
   
 - 📫 How to reach me:
   - **Discord: spyynz#0999**
   
-### Thanks for reading! Have a nice day :)
+### goodbye :)
